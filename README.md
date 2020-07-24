@@ -1,14 +1,10 @@
-### Hello,World! 👋
+### 🤔目前技术栈! 👋
 
 
-
+```test
+React Redux Redux-Saga Hooks
+Node PHP Python
 ```
-JavaScript           5 hrs  ███████████████▒░░░░  90.3%
-Python               2      ██████████▒░░░░░░░░░  27.3%
-TypeScript         53 mins  █████████░░░░░░░░░░░  16.2%
-JSON               47 mins  ████░░░░░░░░░░░░░░░░   5.4%
-```
-
 
 <!--
 **blockmood/blockmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
