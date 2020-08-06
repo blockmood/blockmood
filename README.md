@@ -6,6 +6,11 @@
  Node PHP Python Go
 ```
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
+
 <!--
 **blockmood/blockmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
