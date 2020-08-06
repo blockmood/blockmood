@@ -7,7 +7,7 @@
 ```
 
 <p align="center"> 
-  Visitor count<br>
+  访客数<br>
   <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
