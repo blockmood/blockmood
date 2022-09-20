@@ -1,11 +1,15 @@
 
 
+```test
+ React
+ Node 
+ PHP 
+ Python 
+ Go
+```
+
 <!--
 
-```test
- React Redux Redux-Saga Hooks
- Node PHP Python Go
-```
 
 **blockmood/blockmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
