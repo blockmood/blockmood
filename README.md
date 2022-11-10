@@ -1,7 +1,7 @@
 
 
 ```test
- React
+ JavaScript
  Node 
  PHP 
  Python 
