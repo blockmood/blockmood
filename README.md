@@ -1,6 +1,7 @@
 
 
 ```test
+目前了解的语言
  JavaScript
  PHP 
  Python 
