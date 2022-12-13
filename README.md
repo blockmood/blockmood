@@ -2,7 +2,6 @@
 
 ```test
  JavaScript
- Node 
  PHP 
  Python 
  Go
